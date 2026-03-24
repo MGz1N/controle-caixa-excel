@@ -1,19 +1,25 @@
-# Controle de Caixa em Excel
+## Planilha de Controle de Caixa em Excel
 
-Este projeto consiste em uma planilha de controle de caixa desenvolvida para registrar entradas, saídas e calcular automaticamente o saldo.
+Essa planilha foi criada por mim para organizar e controlar entradas e saídas de dinheiro de forma simples, e para praticar a lógica do Excel.
 
-## Funcionalidades
-- Registro de entradas e saídas
-- Cálculo automático de saldo
-- Classificação automática pelo fluxo diário (Venda/Compra/Sem Movimento)
-- Formatação condicional para um melhor visual
+## O que a planilha faz:
+- Registro de entradas (valores positivos)
+- Registro de saídas (gastos)
+- Cálculo automático do saldo
+- Organização das informações por data
+- Destaque visual com cores para facilitar a análise visual do conteúdo
 
-## Objetivo
-Simular um sistema de fluxo de caixa.
+## O que eu pratiquei:
+- Uso de fórmulas no Excel
+- Organização de dados
+- Lógica básica de controle financeiro
+- Formatação condicional
 
-## Tecnologias utilizadas
-- Excel
-- Lógica de automação com fórmulas
+## Objetivo:
+Praticar o uso do Excel e entender melhor como funciona o controle de caixa no dia a dia.
+
+## Observação:
+É somente um projeto simples, feito com o objetivo de focar em aprendizado.
 
 ## Autor
-Victor Henrique Azevedo Jordão
+Victor H.
